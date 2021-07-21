@@ -9,6 +9,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m a Third year Computer Engineering student from **Pillai College of Engineering**
+- ✏️ I’m a self learned **UI/UX Desiginer** and **Graphic Designer**
 
 - 🌱 I’m currently learning **React js and React Native**
 
