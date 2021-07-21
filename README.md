@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m a Third year Computer Engineering student from **Pillai College of Engineering**
-- ✏️ I’m a self learned **UI/UX Desiginer** and **Graphic Designer**
+- ✏️ I’m a self learned **UI/UX** and **Graphic Designer**
 
 - 🌱 I’m currently learning **React js and React Native**
 
@@ -70,5 +70,7 @@
 "><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Tomcy48"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tomc.designs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://dribbble.com/Tomcy48"><img src="https://img.icons8.com/office/43/000000/dribbble.png"/></a>
+<a href= "https://www.behance.net/tomcythomas"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 
 </p>
