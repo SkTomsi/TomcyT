@@ -57,7 +57,8 @@
   <a href="https://github.com/TomcyT/github-readme-stats"><img alt="Tomcy's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomcyT&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+
+<br/>
 <br/>
 
 <a href="https://github.com/TomcyT/github-readme-activity-graph"><img alt="Tomcy's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TomcyT&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
