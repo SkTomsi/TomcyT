@@ -68,7 +68,7 @@
 
 ## 💻 Current Project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=React-movie-db&theme=vue&hide_border=true)](https://github.com/TomcyT/React-movie-db)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=linkedin-clone&theme=vue&hide_border=true)](https://github.com/TomcyT/linkedin-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=spotify-user-top-tracks-react&theme=buefy&hide_border=true)](https://github.com/TomcyT/spotify-user-top-tracks-react))
 
 <br>
