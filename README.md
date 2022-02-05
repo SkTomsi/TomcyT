@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👨‍💻 Here's my Design **[ Portfolio](https://drive.google.com/file/d/1zXY-EEKqbQemVGvak7F9hz_tYjQh1IXL/view?usp=sharing)**
+- 👨‍💻 Here's my Design **[ Portfolio](https://www.behance.net/gallery/131279801/Design-Portfolio)**
 
 - 📫 How to reach me **designsbytomc@gmail.com**
 
