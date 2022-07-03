@@ -24,7 +24,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-[![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com)
+https://forthebadge.com/images/badges/made-with-crayons.svg
 </p>
 <br>
 <p>
