@@ -23,8 +23,9 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-https://forthebadge.com/images/badges/made-with-crayons.svg
+<p align="left">
+    <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"/>
+
 </p>
 <br>
 <p>
