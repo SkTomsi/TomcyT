@@ -76,6 +76,7 @@
 <br>
 
 ## 📩 Connect with me:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <p align="left">
 
@@ -84,6 +85,6 @@
 <a href = "https://twitter.com/Tomcy48"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tomc.designs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://dribbble.com/Tomcy48"><img src="https://img.icons8.com/office/43/000000/dribbble.png"/></a>
-<a href= "https://www.behance.net/tomcythomas"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
+<a href= "https://www.behance.net/tomcythomas">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 
 </p>
