@@ -2,11 +2,11 @@
 <img style="align-self:center"  height="250" width="500" src="https://i.pinimg.com/originals/c4/31/dd/c431dd7de99862ddb61c5d5f6d56041c.gif"/>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tomcy</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Tomcy</h1>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m a Pre-final year Computer Engineering student from **Pillai College of Engineering**
+- 🔭 I’m a Final year Computer Engineering student from **Pillai College of Engineering**
 - ✏️ I’m a self learned **UI/UX** and **Graphic Designer**
 
 - 🌱 I’m currently learning **React js and React Native**
@@ -68,8 +68,8 @@
 
 ## 💻 Current Project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=linkedin-clone&theme=vue&hide_border=true)](https://github.com/TomcyT/linkedin-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=spotify-user-top-tracks-react&theme=buefy&hide_border=true)](https://github.com/TomcyT/spotify-user-top-tracks-react))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-quotes-app&theme=vue&hide_border=true)](https://github.com/TomcyT/linkedin-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-ecommerce&theme=buefy&hide_border=true)](https://github.com/TomcyT/spotify-user-top-tracks-react))
 
 <br>
 
