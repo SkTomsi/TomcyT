@@ -68,8 +68,8 @@
 
 ## 💻 Current Project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-quotes-app&theme=vue&hide_border=true)](https://github.com/TomcyT/linkedin-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-ecommerce&theme=buefy&hide_border=true)](https://github.com/TomcyT/spotify-user-top-tracks-react))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-quotes-app&theme=vue&hide_border=true)](https://github.com/TomcyT/react-qoutes-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-ecommerce&theme=buefy&hide_border=true)](https://github.com/TomcyT/react-ecommerce))
 
 <br>
 
