@@ -10,7 +10,7 @@
 - 🔭 I’m a Final year Computer Engineering student from **Pillai College of Engineering**
 - ✏️ I’m a self learned **UI/UX** and **Graphic Designer**
 
-- 🌱 I’m currently learning **React js and React Native**
+- 🌱 I’m currently building cool stuff with **React js and React Native**
 
 - 👯 I’m looking to collaborate on **Projects**
 
