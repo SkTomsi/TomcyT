@@ -84,4 +84,4 @@
 <a href = "https://wa.me/7208708451">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 ## What im currently listening to
-![[https://spotify-github-profile.vercel.app/api/view.svg?uid=iv2zjklv39du7hm10ycipx4bw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=iv2zjklv39du7hm10ycipx4bw&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)]]
+[![https://spotify-github-profile.vercel.app/api/view.svg?uid=iv2zjklv39du7hm10ycipx4bw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=iv2zjklv39du7hm10ycipx4bw&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)]]
