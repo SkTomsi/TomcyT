@@ -80,5 +80,5 @@
 
 <br/>
 
-## What im currently listening to
+## 🎧 What im currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=iv2zjklv39du7hm10ycipx4bw&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=iv2zjklv39du7hm10ycipx4bw&redirect=true)
