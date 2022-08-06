@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
-![](https://komarev.com/ghpvc/?username=TomcyT&style=flat-square)
+![](https://komarev.com/ghpvc/?username=TomcyT&style=for-the-badge)
 
 - 🔭 I’m a Final year Computer Engineering student from **Pillai College of Engineering**
 - ✏️ I’m a self learned **UI/UX** and **Graphic Designer**
