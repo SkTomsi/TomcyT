@@ -1,4 +1,5 @@
 <p align="center">
+![](https://komarev.com/ghpvc/?username=TomcyT&style=flat-square)
 <img style="align-self:center"  height="250" width="500" src="https://i.pinimg.com/originals/c4/31/dd/c431dd7de99862ddb61c5d5f6d56041c.gif"/>
 </p>
 
