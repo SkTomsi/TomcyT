@@ -1,5 +1,4 @@
 <p align="center">
-![](https://komarev.com/ghpvc/?username=TomcyT&style=flat-square)
 <img style="align-self:center"  height="250" width="500" src="https://i.pinimg.com/originals/c4/31/dd/c431dd7de99862ddb61c5d5f6d56041c.gif"/>
 </p>
 
@@ -7,6 +6,7 @@
 
 ## 🙋‍♂️ About Me
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+![](https://komarev.com/ghpvc/?username=TomcyT&style=flat-square)
 
 - 🔭 I’m a Final year Computer Engineering student from **Pillai College of Engineering**
 - ✏️ I’m a self learned **UI/UX** and **Graphic Designer**
