@@ -69,7 +69,7 @@
 ## 💻 Current Project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-qoutes-app&theme=vue&hide_border=true)](https://github.com/TomcyT/react-qoutes-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-ecommerce&theme=buefy&hide_border=true)](https://github.com/TomcyT/react-ecommerce))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TomcyT&repo=react-ecommerce&theme=buefy&hide_border=true)](https://github.com/TomcyT/react-ecommerce)
 
 <br>
 
@@ -80,7 +80,7 @@
 <a href="https://dribbble.com/Tomcy48">![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)</a>
 <a href= "https://www.behance.net/tomcythomas">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 <a href = "https://wa.me/7208708451">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iv2zjklv39du7hm10ycipx4bw?si=6747b9439eb4468a)]
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iv2zjklv39du7hm10ycipx4bw?si=6747b9439eb4468a)
 <br/>
 
 ## 🎧 What im currently listening to
